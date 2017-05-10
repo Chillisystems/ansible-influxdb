@@ -24,3 +24,6 @@ To enable clustering define `influxdb_peers` on all nodes.
 ## License
 
 MIT
+
+## TODO
+Update configs to new influxdb version 1.2.2 ideally keeping them backward compatible
